@@ -1,5 +1,2 @@
-source "https://github.com/Cyclic/cookbooks"
-
-metadata
-
+site :opscode
 cookbook 'mongodb'
